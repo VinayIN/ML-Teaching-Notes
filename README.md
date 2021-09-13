@@ -41,3 +41,6 @@ The topics taught on each day is provided below:
   * revision of datatypes, operators, conditional statements
   * Debugging activities
   * Assignment
+
+- [test_week1.ipynb notebook](test_week1.ipynb)
+ * 8 programming question with solutions
