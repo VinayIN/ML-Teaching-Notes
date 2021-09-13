@@ -43,4 +43,4 @@ The topics taught on each day is provided below:
   * Assignment
 
 - [test_week1.ipynb notebook](test_week1.ipynb)
- * 8 programming question with solutions
+  * 8 programming question with solutions
