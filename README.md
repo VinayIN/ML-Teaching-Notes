@@ -44,3 +44,14 @@ The topics taught on each day is provided below:
 
 - [test_week1.ipynb notebook](test_week1.ipynb)
   * 8 programming question with solutions
+
+- [Day6&7.ipynb notebook](Day6&7.ipynb)
+  * High-Order functions
+  * Recursion
+  * Anonymous function
+  * map, filter and reduce function
+  * DYI - class & inheritance
+  * Class usage programming exercise
+  * Generators
+
+  * Assignment
