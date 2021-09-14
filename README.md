@@ -53,5 +53,4 @@ The topics taught on each day is provided below:
   * DYI - class & inheritance
   * Class usage programming exercise
   * Generators
-
   * Assignment
