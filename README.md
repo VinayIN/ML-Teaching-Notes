@@ -54,3 +54,11 @@ The topics taught on each day is provided below:
   * Class usage programming exercise
   * Generators
   * Assignment
+
+- [Day8.ipynb notebook](Day8.ipynb)
+  * Dynamic programming
+    * 0/1 knapsack code
+    * Bellman-Ford code
+  * Greedy Programming/Algorithm
+    * Minimum Spanning Tree code
+    * Dijkstra code
