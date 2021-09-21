@@ -62,3 +62,13 @@ The topics taught on each day is provided below:
   * Greedy Programming/Algorithm
     * Minimum Spanning Tree code
     * Dijkstra code
+
+- [Day9.ipynb notebook](Day9.ipynb)
+  * Explanation of using numpy and the difference from python sequence
+  * Creation of array
+  * Attributes associated with ndarray
+  * Basic operations
+  * ufunc
+  * Exercises
+  * Cheatsheet
+  * Practice set
