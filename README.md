@@ -72,3 +72,20 @@ The topics taught on each day is provided below:
   * Exercises
   * Cheatsheet
   * Practice set
+
+- [Day10.ipynb notebook](Day10.ipynb)
+  * Use of pandas
+  * Creation of pandas object
+  * Reading/Saving it different formats
+  * Viewing of dataframe
+  * Selecting of dataframe
+  * Indexing techniques
+  * Operating on missing data
+  * Statistic operations
+  * Reshaping techniques
+  * Operating on dataframes using function
+  * Pivot tables and related operations
+  * Comparison with other tools and analogy functions uses
+  * Cheatsheet
+  * Exercise
+  
