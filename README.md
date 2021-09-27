@@ -89,3 +89,7 @@ The topics taught on each day is provided below:
   * Cheatsheet
   * Exercise
   
+- [Day11.ipynb notebook](Day11.ipynb)
+  * Type of plots/charts used in ML
+  * Seaborn
+  * Plotly
