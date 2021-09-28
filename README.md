@@ -1,8 +1,10 @@
 ## ML-Teaching-Notes
 --------------------
 
-This repository contains notebooks that were used to educate group of colleagues to reach python (beginner's level) and then progress into Machine Learning.
+This repository contains notebooks that were used to teach group of co-workers in a hands-on session to help them reach python (beginner's level) and then progress into Machine Learning.
 The topics taught on each day is provided below:
+
+*(Each Notebook read time - 2 hrs approx)*
 
 - [Day0.ipynb notebook](Day0.ipynb)
   * Installation and Setting of the tools
