@@ -93,3 +93,14 @@ The topics taught on each day is provided below:
   * Type of plots/charts used in ML
   * Seaborn
   * Plotly
+
+- [test_week2.ipynb notebook](test_week2.ipynb)
+  * 4 + 1 programming sections
+
+- [Day12.ipynb notebook](Day12,ipynb)
+  * Introduction to ML
+  * Video explanation
+  * Mathematics required for ML
+  * Resources
+  * Type of learning in ML
+  * Reading assignment
