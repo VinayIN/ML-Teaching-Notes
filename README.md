@@ -4,7 +4,7 @@
 This repository contains notebooks that were used to teach group of co-workers in a hands-on session to help them reach python (beginner's level) and then progress into Machine Learning.
 The topics taught on each day is provided below:
 
-*(Each Notebook read time - 2 hrs approx)*
+*(Each Notebook read time - 1 hrs approx)*
 
 - [Day0.ipynb notebook](Day0.ipynb)
   * Installation and Setting of the tools
@@ -99,10 +99,16 @@ The topics taught on each day is provided below:
 - [test_week2.ipynb notebook](test_week2.ipynb)
   * 4 + 1 programming sections
 
-- [Day12.ipynb notebook](Day12,ipynb)
+- [Day12.ipynb notebook](Day12.ipynb)
   * Introduction to ML
   * Video explanation
   * Mathematics required for ML
   * Resources
   * Type of learning in ML
   * Reading assignment
+
+- [Day13.ipynb notebook](Day13.ipynb)
+  * Introduction to sklearn
+  * Catergories of API in the library
+  * Approaches to be used in training a ML model
+  * Example of RandomForestClassifier
